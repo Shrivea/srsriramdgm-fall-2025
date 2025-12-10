@@ -9,11 +9,11 @@ lecturers:
     url: "https://adaptinfer.org"
 
 authors:
-  - name: Author 1 # author's full name
+  - name: Parv Singhal # author's full name
     url: "#" # optional URL to the author's homepage
-  - name: Author 2
+  - name: Bishope Devkota
     url: "#"
-  - name: Author 3
+  - name: Vikram Varikooty
     url: "#"
 
 editors:
